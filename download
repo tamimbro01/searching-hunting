@@ -1,0 +1,6 @@
+node_modules/
+.base/
+.turbofy-out/
+.turbofy-install.*
+.env
+.env.*

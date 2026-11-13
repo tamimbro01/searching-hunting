@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ES2022",
+    "moduleResolution": "bundler",
+    "lib": [
+      "ES2022",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "jsx": "react-jsx",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/shared/*": [
+        "shared/*"
+      ],
+      "@/*": [
+        "node_modules/@turbofy-ai/app-runtime/dist/src/*"
+      ]
+    }
+  },
+  "include": [
+    "app.ts",
+    "schema.ts",
+    "pages/**/*.ts",
+    "block-types/**/*.ts",
+    "block-types/**/*.tsx",
+    "shared/**/*.ts",
+    "shared/**/*.tsx"
+  ]
+}

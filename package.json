@@ -1,0 +1,15 @@
+{
+  "name": "turbofy-app-d0623dc9-f2df-4eed-a148-a8ed078f0108-3M3VpUgpSussLMzgCr2Y7OIDaqM",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@turbofy-ai/app-runtime": "latest"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "esbuild": "0.27.2",
+    "tsx": "4.22.3",
+    "eslint": "9.39.4",
+    "@typescript-eslint/parser": "8.58.2"
+  }
+}
