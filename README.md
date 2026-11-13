@@ -1,4 +1,3 @@
-ভাই, নিচেরটা `README.md`-তে paste করো। এতে রঙিন flow diagram আছে, যাতে বোঝা যায় অ্যাপটা কীভাবে কাজ করে। **GitHub-এর Mermaid diagram স্থির থাকে**—এটা 3D animation নয়। Animation দেখাতে আলাদা GIF যোগ করতে হবে।
 
 
 # 🎯 LeadScout
